@@ -1,0 +1,9 @@
+text:
+  length:
+    remaining_one: "{{count}} restant"
+    remaining_other: "{{count}} restants"
+    missing_one: "{{count}} manquant"
+    missing_other: "{{count}} manquants"
+  errors:
+    length: "{{field}} a atteint la limite de {{max}} caractères."
+    required: "{{field}} est requis."

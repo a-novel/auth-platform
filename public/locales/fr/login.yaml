@@ -1,0 +1,13 @@
+title: Connexion
+fields:
+  email:
+    label: Courriel
+    placeholder: camille@mail.com
+    errors:
+      invalid: Le format du courriel est invalide.
+      taken: Ce courriel est déjà utilisé.
+      field: Le courriel
+  password:
+    label: Mot de passe
+    errors:
+      field: Le mot de passe

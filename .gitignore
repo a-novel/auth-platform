@@ -1,0 +1,17 @@
+# IDE directories
+.idea
+.vscode
+
+# Node.js directories
+node_modules
+
+# Compiled files
+build
+
+# Tests
+coverage
+
+# Sentry Config File
+.env.sentry-build-plugin
+
+*storybook.log

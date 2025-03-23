@@ -1,0 +1,13 @@
+title: Authentication
+fields:
+  email:
+    label: Email
+    placeholder: sam@mail.com
+    errors:
+      invalid: The email format is invalid.
+      taken: This email is already in use.
+      field: Email
+  password:
+    label: Password
+    errors:
+      field: Password

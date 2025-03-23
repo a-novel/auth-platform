@@ -1,0 +1,7 @@
+text:
+  length:
+    remaining: "{{count}} remaining"
+    missing: "{{count}} missing"
+  errors:
+    length: "{{field}} has reached its limit of {{max}} characters."
+    required: "{{field}} is required."
